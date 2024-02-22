@@ -1,19 +1,26 @@
-# Hi there! 👋 I'm Mahdiar Giahi
+## Mahdiar Giahi
 
-I'm a passionate **Java** and **C#** web developer with a flair for creativity. When I'm not coding, you'll find me tinkering with **Photoshop**, designing beautiful interfaces, and bringing ideas to life. Here's a glimpse of what I bring to the table:
+**Java | C# | Web Developer**
 
-## Skills and Interests
+I'm a driven web developer with experience in Java, C#, and a knack for crafting user-friendly web experiences. I leverage front-end technologies like HTML, CSS, and Bootstrap to bring ideas to life. Photoshop helps me visualize and design impactful interfaces.
 
-- **Java**: Crafting robust back-end solutions.
-- **C#**: Building scalable applications with .NET.
-- **JavaScript**: Adding interactivity and dynamism to web projects.
-- **CSS** and **HTML**: Styling and structuring web pages.
-- **Bootstrap**: Creating responsive and visually appealing designs.
+**Skills:**
 
-## 🌟 Fun Facts About Me
+* **Programming Languages:** Java, C#, JavaScript
+* **Front-end Frameworks:** Bootstrap
+* **Design Software:** Photoshop
 
-- 🎨 I love experimenting with design and color palettes.
-- 📝 Exploring technical content writing and sharing knowledge.
-- 📫 How to reach me: LinkedIn | Twitter
+**Projects:**
 
-Feel free to connect with me! Let's collaborate and build amazing things together. 😊
+* **Coming Soon!** Stay tuned for my upcoming projects showcasing my skills and innovation.
+
+**I'm currently:**
+
+* **Exploring:** New technologies and frameworks like Spring Boot, React, and Angular.
+* **Contributing:** To open-source projects I find inspiring and valuable.
+* **Collaborating:** With other developers on exciting projects – let's connect!
+
+**Connect with me:**
+
+* Email: mahdiargiahi@gmail.com
+* LinkedIn: https://www.linkedin.com/in/mahdiar-giahi-53a997240/
