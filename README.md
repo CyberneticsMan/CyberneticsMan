@@ -10,10 +10,10 @@ I'm a passionate **Java** and **C#** web developer with a flair for creativity. 
 - **CSS** and **HTML**: Styling and structuring web pages.
 - **Bootstrap**: Creating responsive and visually appealing designs.
 
-## Fun Facts About Me
+## 🌟 Fun Facts About Me
 
 - 🎨 I love experimenting with design and color palettes.
-- 🌱 Exploring technical content writing and sharing knowledge.
+- 📝 Exploring technical content writing and sharing knowledge.
 - 📫 How to reach me: LinkedIn | Twitter
 
 Feel free to connect with me! Let's collaborate and build amazing things together. 😊
