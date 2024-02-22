@@ -4,9 +4,16 @@ I'm a passionate web developer with experience in **Java**, **C#**, and a knack 
 
 ## Skills and Interests
 
-- 💻 **Programming Languages:** Java !Java, C# !C#, JavaScript 
-- 🎨 **Front-end Frameworks:** Bootstrap
-- 🖌️ **Design Software:** Photoshop
+- 💻 **Programming Languages:** 
+  !Java
+  !C#
+  !JavaScript
+
+- 🎨 **Front-end Frameworks:** 
+  !Bootstrap
+
+- 🖌️ **Design Software:** 
+  !Photoshop
 
 ## Projects
 
