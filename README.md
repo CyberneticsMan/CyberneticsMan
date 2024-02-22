@@ -5,15 +5,15 @@ I'm a passionate web developer with experience in **Java**, **C#**, and a knack 
 ## Skills and Interests
 
 - 💻 **Programming Languages:** 
-  !Java
-  !C#
-  !JavaScript
+  Java
+  C#
+  JavaScript
 
 - 🎨 **Front-end Frameworks:** 
-  !Bootstrap
+  Bootstrap
 
 - 🖌️ **Design Software:** 
-  !Photoshop
+  Photoshop
 
 ## Projects
 
@@ -28,4 +28,10 @@ I'm a passionate web developer with experience in **Java**, **C#**, and a knack 
 ## Connect with Me
 
 - 📧 **Email:** mahdiargiahi@gmail.com
-- 🔗 **LinkedIn:** Mahdiar Giahi
+- 🔗 **LinkedIn:** [Mahdiar Giahi](https://www.linkedin.com/in/mahdiar-giahi-53a997240/)
+
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberneticsMan&show_icons=true&theme=dark)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=CyberneticsMan&count_private=true&show_icons=true&theme=dark)
+
