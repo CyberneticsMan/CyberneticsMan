@@ -1,19 +1,12 @@
 # Hi there! 👋 I'm Mahdiar Giahi
 
-I'm a passionate web developer with experience in **Java**, **C#**, and a knack for crafting user-friendly web experiences. When I'm not coding, you'll find me tinkering with **Photoshop**, designing beautiful interfaces, and bringing ideas to life.
+I'm a passionate web developer with experience in **Java**, **C#**, and I studied art for a while so I can design beautiful interfaces with **Photoshop**, and bringing ideas to life.
 
 ## Skills and Interests
 
 - 💻 **Programming Languages:** 
-  Java
-  C#
-  JavaScript
-
-- 🎨 **Front-end Frameworks:** 
-  Bootstrap
-
-- 🖌️ **Design Software:** 
-  Photoshop
+  ### I currently use:
+  [![I currently use](https://skillicons.dev/icons?i=python,django,java,cs,dotnet,raspberrypi,arduino,html,css,javascript,bootstrap,wordpress,mysqlgodot,figma,github,vscode,idea,docker,linux,blender,ps,pr,ae&perline=8)](https://skillicons.dev)
 
 ## Projects
 
@@ -35,3 +28,6 @@ I'm a passionate web developer with experience in **Java**, **C#**, and a knack 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CyberneticsMan&count_private=true&show_icons=true&theme=dark)
 
+## Stats! 📊
+
+<a href=#><img src="https://github.com/Yoursole1/Yoursole1/blob/output/github-contribution-grid-snake.svg"></a>
