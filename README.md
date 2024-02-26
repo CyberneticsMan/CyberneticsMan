@@ -31,6 +31,11 @@ I'm a passionate web developer with experience in **Java**, **C#**, and I studie
 Weekly langauge stats.
 
 <!--START_SECTION:waka-->
+
+```rust
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
