@@ -27,6 +27,8 @@ I'm a passionate web developer with experience in **Java**, **C#**, and I studie
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CyberneticsMan&count_private=true&show_icons=true&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CyberneticsMan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Stats! 📊
 Weekly langauge stats.
 
