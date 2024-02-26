@@ -4,8 +4,7 @@ I'm a passionate web developer with experience in **Java**, **C#**, and I studie
 
 ## Skills and Interests
 
-- 💻 **Programming Languages:** 
-  ### I currently use:
+- ### 💻 I currently use:
   [![I currently use](https://skillicons.dev/icons?i=python,django,java,cs,dotnet,raspberrypi,arduino,html,css,javascript,bootstrap,wordpress,mysqlgodot,figma,github,vscode,idea,docker,linux,blender,ps,pr,ae&perline=8)](https://skillicons.dev)
 
 ## Projects
@@ -29,5 +28,10 @@ I'm a passionate web developer with experience in **Java**, **C#**, and I studie
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CyberneticsMan&count_private=true&show_icons=true&theme=dark)
 
 ## Stats! 📊
+Weekly langauge stats.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <a href=#><img src="https://github.com/Yoursole1/Yoursole1/blob/output/github-contribution-grid-snake.svg"></a>
