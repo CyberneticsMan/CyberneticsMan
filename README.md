@@ -35,7 +35,11 @@ Weekly langauge stats.
 <!--START_SECTION:waka-->
 
 ```rust
-No activity tracked
+Python       40 mins         >>>>>>>>>>>--------------   43.46 %
+JavaScript   17 mins         >>>>>--------------------   18.98 %
+HTML         17 mins         >>>>>--------------------   18.12 %
+Java         14 mins         >>>>---------------------   15.43 %
+CSS          2 mins          >------------------------   03.13 %
 ```
 
 <!--END_SECTION:waka-->
