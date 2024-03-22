@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mahdiar Giahi
+# Hi there! 👋
 
 I'm a passionate web developer with experience in **Java**, **C#**, and I studied art for a while so I can design beautiful interfaces with **Photoshop**, and bringing ideas to life.
 
@@ -16,11 +16,6 @@ I'm a passionate web developer with experience in **Java**, **C#**, and I studie
 - 🌱 **Exploring:** New technologies and frameworks like Spring Boot, React, and Angular.
 - 🚀 **Contributing:** To open-source projects I find inspiring and valuable.
 - 👥 **Collaborating:** With other developers on exciting projects – let's connect!
-
-## Connect with Me
-
-- 📧 **Email:** mahdiargiahi@gmail.com
-- 🔗 **LinkedIn:** [Mahdiar Giahi](https://www.linkedin.com/in/mahdiar-giahi-53a997240/)
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberneticsMan&show_icons=true&theme=dark)
