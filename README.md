@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate web developer with experience in **Java**, **C#**, and I studied art for a while so I can design beautiful interfaces with **Photoshop**, and bringing ideas to life.
+I'm a passionate web developer with experience in **Java**, **Rust**, **C#**
 
 ## Skills and Interests
 
