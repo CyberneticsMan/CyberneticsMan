@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a passionate web developer with experience in **Java**, **Python**, **C#**
+I'm a passionate programmer with experience in **Java**, **Python**, **C#**
 
 ## Skills and Interests
 
