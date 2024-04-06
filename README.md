@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**CyberneticsMan/CyberneticsMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with experience in **Java**, **Python**, **C#**
 
-Here are some ideas to get you started:
+## Skills and Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 💻 I currently use:
+  [![I currently use](https://skillicons.dev/icons?i=python,django,rust,java,cs,dotnet,raspberrypi,arduino,html,css,javascript,bootstrap,wordpress,mysql,godot,figma,github,vscode,idea,docker,linux,blender,ps,pr,ae&perline=8)](https://skillicons.dev)
+
+## Projects
+
+- **Coming Soon!** Stay tuned for my upcoming projects showcasing my skills and innovation.
+
+## Currently
+
+- 🌱 **Exploring:** New technologies and frameworks like Spring Boot, React, and Angular.
+- 🚀 **Contributing:** To open-source projects I find inspiring and valuable.
+- 👥 **Collaborating:** With other developers on exciting projects – let's connect!
+
+
+
+## Stats! 📊
+Weekly langauge stats.
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+<a href=#><img src="https://github.com/Yoursole1/Yoursole1/blob/output/github-contribution-grid-snake.svg"></a>
