@@ -5,7 +5,7 @@ I'm a passionate programmer with experience in **Java**, **Python**, **C#**
 ## Skills and Interests
 
 - ### 💻 I currently use:
-  [![I currently use](https://skillicons.dev/icons?i=python,django,rust,java,cs,dotnet,raspberrypi,arduino,html,css,javascript,bootstrap,wordpress,mysql,godot,figma,github,vscode,idea,docker,linux,blender,ps,pr,ae&perline=8)](https://skillicons.dev)
+  [![I currently use](https://skillicons.dev/icons?i=python,django,rust,java,spring,cs,dotnet,raspberrypi,arduino,html,css,javascript,bootstrap,wordpress,mysql,godot,figma,github,vim,vscode,idea,docker,linux,blender&perline=8)](https://skillicons.dev)
 
 ## Projects
 
