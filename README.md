@@ -92,8 +92,8 @@ class CyberneticsMan:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoursole1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoursole1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberneticsMan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberneticsMan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### 📊 Weekly Development Stats
@@ -117,7 +117,7 @@ class CyberneticsMan:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yoursole1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberneticsMan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
@@ -132,6 +132,6 @@ class CyberneticsMan:
   
 **⭐ Star my repositories if you find them useful!**
 
-<a href=#><img src="https://github.com/Yoursole1/Yoursole1/blob/output/github-contribution-grid-snake.svg"></a>
+<a href=#><img src="https://github.com/CyberneticsMan/CyberneticsMan/blob/output/github-contribution-grid-snake.svg"></a>
 
 </div>
